@@ -3,7 +3,7 @@ Developer: David Smith
 
 ## Purpose
 
-This repo is a demonstration of a a single page applicationthat makes asynchronous http requests to Laravel from the front-end.
+This repo is a demonstration of a a single page application that makes asynchronous http requests to Laravel from the front-end.
 
 This is a barebones project that satisfies the assigned requirements.
 
